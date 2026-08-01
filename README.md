@@ -125,38 +125,7 @@ The analysis helps organizations to:
 
 ---
 
-## 📁 Project Structure
 
-```
-Social-Media-Engagement-Analytics/
-│
-├── Social_Media_Engagement_Analysis.ipynb
-├── social_media_engagement_5000.csv
-├── README.md
-└── images/
-```
-
----
-
-## ▶️ Getting Started
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/Social-Media-Engagement-Analytics.git
-```
-
-### Install Required Libraries
-
-```bash
-pip install pandas numpy matplotlib seaborn
-```
-
-### Launch Jupyter Notebook
-
-```bash
-jupyter notebook
-```
 
 
 
@@ -199,6 +168,4 @@ Aspiring Data Analyst
 
 ---
 
-## ⭐ Support
 
-If you found this project useful, please consider giving it a ⭐ on GitHub.
